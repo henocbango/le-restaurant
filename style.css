@@ -6,3 +6,11 @@ h1{
     color: yellow;
     text-align: center;
 }
+
+p{
+    font-size: 2rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    margin: 100px 0;
+    color: #f1f1f1;
+}
